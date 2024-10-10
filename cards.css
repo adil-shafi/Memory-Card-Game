@@ -23,5 +23,20 @@ body {
     
 }
 
+nav {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: #2458b8;
+    margin: 0 10px;
+    transition: background-color 0.3s, transform 0.3s;
+    font-size: 16px;
+}
 
 
