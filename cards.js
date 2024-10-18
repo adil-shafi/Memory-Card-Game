@@ -1,3 +1,4 @@
+// JS Logic for card display and function
 var errors = 0;
 var cardList = [
     "darkness",
